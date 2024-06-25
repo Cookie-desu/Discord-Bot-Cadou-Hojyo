@@ -8,3 +8,6 @@ Botシステムの入っているファイル（index.py 等）のパスを入�
 2 . botシステムの名前を設定してください。例 Index.js など
 
 3. Botのシステム選択 Node.js や Pythonなどを選択してください
+
+自作発言等はおやめください。
+このプログラムを参考にした際は 参考 https://github.com/Cookie-desu/Discord-Bot-CadouHojyo/tree/main と書いてください。
